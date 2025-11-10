@@ -2,7 +2,7 @@
 
 <img src="src/main/resources/logo.png" alt="ChatCalc Logo" width="200"/>
 
-# ChatCalc NeoForge
+# ChatCalc Port for (NeoForge 1.21.10)
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.10-green.svg)](https://www.minecraft.net/)
 [![NeoForge](https://img.shields.io/badge/NeoForge-21.10.49--beta-orange.svg)](https://neoforged.net/)
