@@ -1,0 +1,7 @@
+{
+  "chatcal.config.description": "Config options:\n- decimal_format: The format for displaying decimal numbers (default: #,##0.##)\n- radians: Whether to use radians instead of degrees (default: false)\n- copy_type: Where to save calculations (chat_history or clipboard)\n- display_above: Show calculation preview above input (default: true)",
+  "chatcal.radians.description": "radians=<true|false>: Sets whether to use radians or degrees for trigonometric functions",
+  "chatcal.copy_type.description": "copy_type=<chat_history|clipboard>: Sets where to save your calculations",
+  "chatcal.decimal_format.description": "decimal_format=<format>: Sets the format for displaying decimal numbers",
+  "chatcal.display_above.description": "display_above=<true|false>: Sets whether to show calculation preview above input"
+}

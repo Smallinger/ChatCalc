@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "de.smallinger.chatcalc.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "chatcalc.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "ChatScreenMixin",
+    "EditBoxMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
