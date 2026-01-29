@@ -44,7 +44,7 @@ ChatCalc NeoForge is a port of the original [ChatCalc Fabric mod](https://github
 ### Custom Functions
 Define a custom function:
 ```
-myFunc(x;y) = x^2 + y^2
+myFunc(x;y) = x^2 + y^2  // TAB -> function defined
 ```
 Use it:
 ```
